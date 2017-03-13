@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Classes\DrawLibs.c" open="1" top="0" tabpos="13">
+		<Cursor position="194" topLine="0" />
+	</File>
+	<File name="Classes\DrawLibs.h" open="1" top="0" tabpos="12">
+		<Cursor position="240" topLine="0" />
+	</File>
+	<File name="Classes\LevelLibs.c" open="1" top="1" tabpos="5">
+		<Cursor position="48124" topLine="67" />
+	</File>
+	<File name="Classes\LevelLibs.h" open="1" top="0" tabpos="6">
+		<Cursor position="3856" topLine="32" />
+	</File>
+	<File name="Classes\MathLibs.c" open="1" top="0" tabpos="11">
+		<Cursor position="23" topLine="0" />
+	</File>
+	<File name="Classes\MathLibs.h" open="1" top="0" tabpos="10">
+		<Cursor position="132" topLine="0" />
+	</File>
+	<File name="Classes\MemoryLibs.c" open="1" top="0" tabpos="7">
+		<Cursor position="1126" topLine="1" />
+	</File>
+	<File name="Classes\MemoryLibs.h" open="1" top="0" tabpos="9">
+		<Cursor position="124" topLine="0" />
+	</File>
+	<File name="Classes\UIBlitButton.c" open="1" top="0" tabpos="2">
+		<Cursor position="16" topLine="0" />
+	</File>
+	<File name="Classes\UIBlitButton.h" open="1" top="0" tabpos="3">
+		<Cursor position="539" topLine="0" />
+	</File>
+	<File name="Classes\UIButton.c" open="1" top="0" tabpos="4">
+		<Cursor position="2712" topLine="0" />
+	</File>
+	<File name="Classes\UIButton.h" open="1" top="0" tabpos="8">
+		<Cursor position="953" topLine="0" />
+	</File>
+	<File name="Classes\UITextField.c" open="1" top="0" tabpos="15">
+		<Cursor position="1627" topLine="0" />
+	</File>
+	<File name="Classes\UITextField.h" open="1" top="0" tabpos="14">
+		<Cursor position="193" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="424" topLine="33" />
+	</File>
+</CodeBlocks_layout_file>

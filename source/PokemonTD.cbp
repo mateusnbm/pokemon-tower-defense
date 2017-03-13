@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PokemonTD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output=".\PokemonTD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="alld" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output=".\PokemonTD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="alleg" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Classes\DrawLibs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Classes\DrawLibs.h" />
+		<Unit filename="Classes\LevelLibs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Classes\LevelLibs.h" />
+		<Unit filename="Classes\MathLibs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Classes\MathLibs.h" />
+		<Unit filename="Classes\MemoryLibs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Classes\MemoryLibs.h" />
+		<Unit filename="Classes\UIBlitButton.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Classes\UIBlitButton.h" />
+		<Unit filename="Classes\UIButton.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Classes\UIButton.h" />
+		<Unit filename="Classes\UITextField.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Classes\UITextField.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,275 @@
+# depslib dependency file v1.0
+1379380968 source:c:\users\mateusnbm\desktop\pokemontd\classes\levellibs.c
+	"LevelLibs.h"
+
+1379380823 c:\users\mateusnbm\desktop\pokemontd\classes\levellibs.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1378329542 c:\users\mateusnbm\desktop\pokemontd\classes\mathlibs.h
+	<stdio.h>
+	<math.h>
+
+1378329560 source:c:\users\mateusnbm\desktop\pokemontd\classes\mathlibs.c
+	"MathLibs.h"
+
+1379440961 source:c:\users\mateusnbm\desktop\pokemontd\classes\memorylibs.c
+	"MemoryLibs.h"
+
+1379438409 c:\users\mateusnbm\desktop\pokemontd\classes\memorylibs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1377260740 source:c:\users\mateusnbm\desktop\pokemontd\classes\uiblitbutton.c
+	"UIBlitButton.h"
+
+1377260632 c:\users\mateusnbm\desktop\pokemontd\classes\uiblitbutton.h
+	<stdlib.h>
+	<allegro.h>
+
+1379351084 source:c:\users\mateusnbm\desktop\pokemontd\classes\uibutton.c
+	"UIButton.h"
+
+1379351088 c:\users\mateusnbm\desktop\pokemontd\classes\uibutton.h
+	<stdlib.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1379383203 source:c:\users\mateusnbm\desktop\pokemontd\classes\uitextfield.c
+	"UITextField.h"
+
+1379383728 c:\users\mateusnbm\desktop\pokemontd\classes\uitextfield.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<allegro.h>
+	"MemoryLibs.h"
+	"MathLibs.h"
+
+1379442289 source:c:\users\mateusnbm\desktop\pokemontd\main.c
+	<stdio.h>
+	<time.h>
+	<allegro.h>
+	"Classes/MathLibs.h"
+	"Classes/DrawLibs.h"
+	"Classes/MemoryLibs.h"
+	"Classes/LevelLibs.h"
+	"Classes/UIButton.h"
+	"Classes/UIBlitButton.h"
+	"Classes/UITextField.h"
+
+1378328382 c:\users\mateusnbm\desktop\pokemontd\classes\drawlibs.h
+	<stdio.h>
+	<allegro.h>
+
+1378690998 source:c:\users\mateusnbm\desktop\pokemontd\classes\drawlibs.c
+	"DrawLibs.h"
+
+1379031612 source:c:\users\renato\desktop\temp\pokemontd\main.c
+	<stdio.h>
+	<time.h>
+	<allegro.h>
+	"Classes/MathLibs.h"
+	"Classes/DrawLibs.h"
+	"Classes/MemoryLibs.h"
+	"Classes/LevelLibs.h"
+	"Classes/UIButton.h"
+	"Classes/UIBlitButton.h"
+	"Classes/UITextField.h"
+
+1378329542 c:\users\renato\desktop\temp\pokemontd\classes\mathlibs.h
+	<stdio.h>
+	<math.h>
+
+1378328382 c:\users\renato\desktop\temp\pokemontd\classes\drawlibs.h
+	<stdio.h>
+	<allegro.h>
+
+1377314736 c:\users\renato\desktop\temp\pokemontd\classes\memorylibs.h
+	<stdio.h>
+	<stdlib.h>
+
+1379077671 c:\users\renato\desktop\temp\pokemontd\classes\levellibs.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1378326668 c:\users\renato\desktop\temp\pokemontd\classes\uibutton.h
+	<stdlib.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1377260632 c:\users\renato\desktop\temp\pokemontd\classes\uiblitbutton.h
+	<stdlib.h>
+	<allegro.h>
+
+1378868894 c:\users\renato\desktop\temp\pokemontd\classes\uitextfield.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<allegro.h>
+
+1379079251 source:c:\users\renato\desktop\temp\pokemontd\classes\levellibs.c
+	"LevelLibs.h"
+
+1378329560 source:c:\users\renato\desktop\temp\pokemontd\classes\mathlibs.c
+	"MathLibs.h"
+
+1377260650 source:c:\users\renato\desktop\temp\pokemontd\classes\memorylibs.c
+	"MemoryLibs.h"
+
+1377260740 source:c:\users\renato\desktop\temp\pokemontd\classes\uiblitbutton.c
+	"UIBlitButton.h"
+
+1378867198 source:c:\users\renato\desktop\temp\pokemontd\classes\uibutton.c
+	"UIButton.h"
+
+1378870204 source:c:\users\renato\desktop\temp\pokemontd\classes\uitextfield.c
+	"UITextField.h"
+
+1378690998 source:c:\users\renato\desktop\temp\pokemontd\classes\drawlibs.c
+	"DrawLibs.h"
+
+1379449987 source:c:\users\renato\desktop\pokemontd\main.c
+	<stdio.h>
+	<time.h>
+	<allegro.h>
+	"Classes/MathLibs.h"
+	"Classes/DrawLibs.h"
+	"Classes/MemoryLibs.h"
+	"Classes/LevelLibs.h"
+	"Classes/UIButton.h"
+	"Classes/UIBlitButton.h"
+	"Classes/UITextField.h"
+
+1378329542 c:\users\renato\desktop\pokemontd\classes\mathlibs.h
+	<stdio.h>
+	<math.h>
+
+1378328382 c:\users\renato\desktop\pokemontd\classes\drawlibs.h
+	<stdio.h>
+	<allegro.h>
+
+1379438410 c:\users\renato\desktop\pokemontd\classes\memorylibs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1379380824 c:\users\renato\desktop\pokemontd\classes\levellibs.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1379351088 c:\users\renato\desktop\pokemontd\classes\uibutton.h
+	<stdlib.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1377260632 c:\users\renato\desktop\pokemontd\classes\uiblitbutton.h
+	<stdlib.h>
+	<allegro.h>
+
+1379383730 c:\users\renato\desktop\pokemontd\classes\uitextfield.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<allegro.h>
+	"MemoryLibs.h"
+	"MathLibs.h"
+
+1379504857 source:c:\users\renato\desktop\pokemontd\classes\levellibs.c
+	"LevelLibs.h"
+
+1378329560 source:c:\users\renato\desktop\pokemontd\classes\mathlibs.c
+	"MathLibs.h"
+
+1379459464 source:c:\users\renato\desktop\pokemontd\classes\memorylibs.c
+	"MemoryLibs.h"
+
+1377260740 source:c:\users\renato\desktop\pokemontd\classes\uiblitbutton.c
+	"UIBlitButton.h"
+
+1379351084 source:c:\users\renato\desktop\pokemontd\classes\uibutton.c
+	"UIButton.h"
+
+1379383204 source:c:\users\renato\desktop\pokemontd\classes\uitextfield.c
+	"UITextField.h"
+
+1378690998 source:c:\users\renato\desktop\pokemontd\classes\drawlibs.c
+	"DrawLibs.h"
+
+1379368620 source:c:\users\renato\desktop\pokémon tower defense champions\classes\memorylibs.c
+	"MemoryLibs.h"
+
+1379368620 c:\users\renato\desktop\pokémon tower defense champions\classes\memorylibs.h
+	<stdio.h>
+	<stdlib.h>
+
+1379368638 source:c:\users\renato\desktop\pokémon tower defense champions\classes\levellibs.c
+	"LevelLibs.h"
+
+1379368136 c:\users\renato\desktop\pokémon tower defense champions\classes\levellibs.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1378329542 c:\users\renato\desktop\pokémon tower defense champions\classes\mathlibs.h
+	<stdio.h>
+	<math.h>
+
+1378329560 source:c:\users\renato\desktop\pokémon tower defense champions\classes\mathlibs.c
+	"MathLibs.h"
+
+1377260740 source:c:\users\renato\desktop\pokémon tower defense champions\classes\uiblitbutton.c
+	"UIBlitButton.h"
+
+1377260632 c:\users\renato\desktop\pokémon tower defense champions\classes\uiblitbutton.h
+	<stdlib.h>
+	<allegro.h>
+
+1379351084 source:c:\users\renato\desktop\pokémon tower defense champions\classes\uibutton.c
+	"UIButton.h"
+
+1379351088 c:\users\renato\desktop\pokémon tower defense champions\classes\uibutton.h
+	<stdlib.h>
+	<allegro.h>
+	"MathLibs.h"
+
+1378870204 source:c:\users\renato\desktop\pokémon tower defense champions\classes\uitextfield.c
+	"UITextField.h"
+
+1378868894 c:\users\renato\desktop\pokémon tower defense champions\classes\uitextfield.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<allegro.h>
+
+1379369087 source:c:\users\renato\desktop\pokémon tower defense champions\main.c
+	<stdio.h>
+	<time.h>
+	<allegro.h>
+	"Classes/MathLibs.h"
+	"Classes/DrawLibs.h"
+	"Classes/MemoryLibs.h"
+	"Classes/LevelLibs.h"
+	"Classes/UIButton.h"
+	"Classes/UIBlitButton.h"
+	"Classes/UITextField.h"
+
+1378328382 c:\users\renato\desktop\pokémon tower defense champions\classes\drawlibs.h
+	<stdio.h>
+	<allegro.h>
+
+1378690998 source:c:\users\renato\desktop\pokémon tower defense champions\classes\drawlibs.c
+	"DrawLibs.h"
+
