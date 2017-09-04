@@ -5,4 +5,4 @@ This game was created by me and [Renato](https://github.com/rvlb-19) as the fina
 
 All images and songs used in this game were created by us or found on the internet, as a publicly available resource. The resources were used only for educational purposes and no one ever obtained profit through them. If you own and do not authorize the usage of an image or song used in this game, contact us for removal.
 
-![Alt text](/Imagens/FimDeJogo/TelaDerrota.bmp?raw=true "Initial screen.")
+![Alt text](/screenshots/main1.png?raw=true "Initial screen.")
